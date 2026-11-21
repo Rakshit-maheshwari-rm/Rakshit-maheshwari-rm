@@ -32,7 +32,7 @@ FULL STACK DEVELOPER | MERN STACK | OPEN SOURCE CONTRIBUTOR
 ---
 
 ## 📊 GitHub Stats:
-[![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Rakshit-maheshwari-rm&theme=dark)](https://git.io/streak-stats)
 
-![GitHub Stats](https://github-stats-extended.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark)
-![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Rakshit-maheshwari-rm&show_icons=true&theme=dark)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Rakshit-maheshwari-rm&layout=compact&theme=dark)
